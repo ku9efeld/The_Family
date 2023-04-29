@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="The_Family.jnlp">
+  <information>
+    <title>The_Family</title>
+    <vendor>kumme</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="The_Family.jar" size="23577" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="the_family.Main"  name="The_Family" />
+  <update check="always"/>
+</jnlp>

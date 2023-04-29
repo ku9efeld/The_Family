@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/run1398902808/The_Family.jar"/>
+	<classpathentry kind="lib" path="dist/The_Family.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
