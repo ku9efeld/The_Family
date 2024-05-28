@@ -19,10 +19,10 @@
 ![Text](https://github.com/ku9efeld/the_family/blob/master/Use%20case%20diagram.jpg)
 ## ER диаграмма
 ![Text](https://github.com/ku9efeld/the_family/blob/master/DB_ERD.png)
-## Скриншоты приложения
-__1__ **Main controller**
-![Text](https://github.com/ku9efeld/the_family/blob/master/Main.png)
-__2__ **Tree**
-![Text](https://github.com/ku9efeld/the_family/blob/master/Tree.png)
-__3__ **Archive**
-![Text](https://github.com/ku9efeld/the_family/blob/master/Archive.png)
+## Скриншоты приложения  
+__1__ **Main controller**  
+![Text](https://github.com/ku9efeld/the_family/blob/master/Main.png)  
+__2__ **Tree**  
+![Text](https://github.com/ku9efeld/the_family/blob/master/Tree.png)  
+__3__ **Archive**  
+![Text](https://github.com/ku9efeld/the_family/blob/master/Archive.png)  
