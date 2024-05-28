@@ -16,7 +16,7 @@
 После чего можно выгрузить изображение дерева на компьютер по указанному пути.
 
 ## Use-case диаграмма
-
-## Диаграмма классов
-
+![Text](https://github.com/ku9efeld/the_family/blob/master/Use%20case%20diagram.jpg)
+## ER диаграмма
+![Text](https://github.com/ku9efeld/the_family/blob/master/DB_ERD.png)
 ## Скриншоты приложения
